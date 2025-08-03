@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **student at Unicamp**
 
-- 🌱 I’m currently learning **Python Libraries - Pandas, Seaborn, Numpy, Matplotlib**
+- 🌱 I’m currently learning **Python Libraries - Pandas, Seaborn, Numpy, Matplotlib, Streamlit**
 
 - 👯 I’m looking to collaborate on **projects about DataScience&IA**
 

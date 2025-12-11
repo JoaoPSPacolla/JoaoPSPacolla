@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm João Paulo</h1>
-<h3 align="center">Computer Science student passionate about growth in AI and Machine Learning.</h3>
 
 - 🔭 I’m currently working on **Data Science with Power Bi / Student at Unicamp**
 

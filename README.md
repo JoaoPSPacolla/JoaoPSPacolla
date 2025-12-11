@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Data Science with Power Bi / Student at Unicamp**
 
-- 🌱 I’m currently learning **Python Libraries - Pandas, Seaborn, Numpy, Matplotlib, Streamlit**
+- 🌱 I’m currently learning **Python Libraries - Pandas, Seaborn, Numpy, Matplotlib, Streamlit, Scikit-Learn**
 
 - 👯 I’m looking to collaborate on **projects about DataScience&IA**
 
